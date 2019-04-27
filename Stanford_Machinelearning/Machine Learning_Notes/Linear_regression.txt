@@ -1,0 +1,17 @@
+
+Regression :Predict real value output
+Classifacion : Direct value output 0 OR 1 eg tumer is malignant or bening
+
+notation
+m = Number of training examples
+eg no of values in column  em m= 47
+x's = "input" variable/features
+y's = "output" variable/"target" variable
+(x,y) - one training example
+(x^(i),y^(i)) - i th  training examplez
+
+h = hypothisis 
+h is a function that maps from x's to y's
+
+Linear Regression: another name for linear regression is univariable linear regression .univariable is just a fancy way of telling one variable or linear regression 
+h0(x) = 0O + 01X
